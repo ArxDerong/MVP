@@ -32,7 +32,8 @@ import static com.jess.arms.base.AppManager.SHOW_SNACKBAR;
 import static com.jess.arms.base.AppManager.START_ACTIVITY;
 
 /**
- * Created by jess on 2015/11/23.
+ * Created by Derong on 2015/11/23.
+ * Email:derong218@qq.com
  */
 public class UiUtils {
     static public Toast mToast;
